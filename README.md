@@ -302,6 +302,4 @@ Dallas student community for feedback and testing
 For issues or questions:
 
 Open an issue on GitHub
-Contact: support@dallasstudentnavigator.com
-Documentation: https://docs.dallasstudentnavigator.com
 Built with ❤️ for international students in Dallas
